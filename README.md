@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ElsaArr
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning Java and Angular
+- 😄 Pronouns: she/her
